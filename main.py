@@ -1,4 +1,3 @@
-from sympy import limit
 from ResponseGiver import response
 import praw
 import creds
